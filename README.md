@@ -1,4 +1,4 @@
-# LYRICS SENTIMENT ANALYSIS USING NLP.
+# Sentiment analysis using NLP.
 
 ## A simple project to try and understand NLP, and how it can be used for sentiment analysis of song lyrics.
 
